@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.fd8c95b1.css",
-    "main.js": "/static/js/main.90fe033a.js",
+    "main.css": "/static/css/main.446a2a9c.css",
+    "main.js": "/static/js/main.44ab06e8.js",
     "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
     "static/media/lattice-website.png": "/static/media/lattice-website.8ccde4deadc4e8418641.png",
     "static/media/alps.jpeg": "/static/media/alps.cd97f64ab9f66a5c36cf.jpeg",
@@ -11,6 +11,7 @@
     "static/media/Montserrat-Bold.ttf": "/static/media/Montserrat-Bold.079ca05d3ded9bc107ab.ttf",
     "static/media/Montserrat-Medium.ttf": "/static/media/Montserrat-Medium.e2d60bc49517598c0ce8.ttf",
     "static/media/Montserrat-ExtraLight.ttf": "/static/media/Montserrat-ExtraLight.62a749ca2820713ebbf8.ttf",
+    "static/media/uk-carbon-map.png": "/static/media/uk-carbon-map.7c84e74c8d6619e5bf63.png",
     "static/media/jira.png": "/static/media/jira.dd48d4a28aa3eacb9a4d.png",
     "static/media/Merriweather-Light.ttf": "/static/media/Merriweather-Light.3637be79fa2ae611be9c.ttf",
     "static/media/jinja.png": "/static/media/jinja.4c089b4cff3bc14ee10e.png",
@@ -22,12 +23,13 @@
     "static/media/copilot.png": "/static/media/copilot.c146ae233bea2591c238.png",
     "static/media/sql.png": "/static/media/sql.be99f21a93dbdf9b0e20.png",
     "index.html": "/index.html",
-    "main.fd8c95b1.css.map": "/static/css/main.fd8c95b1.css.map",
-    "main.90fe033a.js.map": "/static/js/main.90fe033a.js.map",
+    "static/media/nextjs.svg": "/static/media/nextjs.7ff86746ec25a6637a0f1b80a9d20332.svg",
+    "main.446a2a9c.css.map": "/static/css/main.446a2a9c.css.map",
+    "main.44ab06e8.js.map": "/static/js/main.44ab06e8.js.map",
     "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd8c95b1.css",
-    "static/js/main.90fe033a.js"
+    "static/css/main.446a2a9c.css",
+    "static/js/main.44ab06e8.js"
   ]
 }
